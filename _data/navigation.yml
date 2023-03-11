@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  # - title: "Expressions"
-  #   url: /expressions/
+#  - title: "Expressions"
+#    url: /expressions/
 
 #  - title: "Teaching"
 #    url: /teaching/
@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Links"
+    url: /links/
   
   - title: "Contact"
     url: /contact/
