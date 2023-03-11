@@ -12,5 +12,5 @@ redirect_from:
 
 ## Hi! I’m Ersin.
 
-This is [my website](eyildiz.net).
+This is [my website](https://www.eyildiz.net).
 
