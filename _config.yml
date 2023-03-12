@@ -81,13 +81,12 @@ social:
 author:
   name             : "Ersin Yıldız"
   avatar           : "oban3.jpg"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "PhD candiate, Mechanical Engineer <br> <a style='color: black;' href='https://www.ozyegin.edu.tr/en/mechanical-engineering-department'>Mechanical Engineering Department</a> <br> <a style='color: black;' href='https://www.ozyegin.edu.tr/en'>Özyeğin University</a>"
-  location         : "Mainz, Germany"
+  # bio              : "PhD candiate <br> Mechanical Engineer <br> <a style='color: black;' href='https://www.ozyegin.edu.tr/en'>Özyeğin University</a>"
+  bio              : "Research and Engineering on Thermal Sciences and Fluid Dynamics <br> PhD Candidate and Teaching Assistant at <a style='color: black;' href='https://www.ozyegin.edu.tr/en'>Özyeğin University</a>"  
+  location         : "Mainz, Rhineland-Palatinate, Germany"
   employer         : 
   googlescholar    : "https://scholar.google.com.tr/citations?user=WJWWvxYAAAAJ&hl=tr&oi=sra"
-  email            : "ersin.yildiz [at] ozu [dot] edu [dot] tr"
+  email            : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -100,7 +99,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yildizersin1/"
+  linkedin         : "yildizersin1/"
   orcid            : "https://orcid.org/0000-0003-0468-9020"
   pinterest        :
   soundcloud       :
